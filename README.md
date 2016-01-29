@@ -126,4 +126,4 @@ This is because the `shouting` boolean holds the evaluation of the `isEqualToStr
 
 Booleans can be useful for preserving the result of a comparison from a particular point in your code for later use. But evaluating a boolean variable instead of the direct result of a comparison will not give you a "live" result based on the present state of your code.
 
-<a href='https://learn.co/lessons/objc-speaking-grandma' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-speaking-grandma' title='Code-Along: Speaking Grandma'>Code-Along: Speaking Grandma</a> on Learn.co and start learning to code for free.</p>
